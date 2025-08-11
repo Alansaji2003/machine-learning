@@ -1,0 +1,1 @@
+![Preview of Plant Disease Prediction](preview.jpg)
